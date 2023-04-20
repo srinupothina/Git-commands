@@ -1,0 +1,24 @@
+ * sudo git init
+
+ * sudo git add Readme
+
+ * sudo git commit -m "some message"
+
+
+ * sudo git remote add origin [ URL ]
+
+ * sudo git branch
+
+ * sudo git push -u origin master
+
+ * sudo git push -uf origin master [ forcely push ]
+
+ * sudo git checkout -b (branch name)
+
+ * sudo rm -rf .git [ to delete .git ]
+
+ * sudo git remote -v [ to check either git url are added or not ]
+
+ * sudo git stash [ to hold in linux work and start git ]
+
+ * sudo git log 
